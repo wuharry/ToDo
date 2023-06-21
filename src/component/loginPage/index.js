@@ -14,7 +14,7 @@ const Login = () => {
             <label for="email">Email:</label>
           </div>
           <div className={styles.inputbox}>
-            <BagRemoveOutline color={"#00000"} height="30px" width="30px" />
+            <BagRemoveOutline color={"#00000"} height="30px" width="30px"  />
             <input type="password" required />
             <label for="password">Password:</label>
           </div>
